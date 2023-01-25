@@ -1,0 +1,17 @@
+.footer {
+	display: flex;
+	flex-direction: column;
+	.primary-footer {
+		background-color: #f7f7f7;
+	}
+	.footer-image {
+		display: flex;
+		justify-content: center;
+		max-width: 562px;
+		margin: auto;
+	}
+	.secondary-footer {
+		height: 72px;
+		background-color: #333333;
+	}
+}
